@@ -22,6 +22,9 @@ Greater context using RAG and vector database.
 Rollback commands.
 Create bash scripts.
 Fine tune a model specifically for this application.
+Security - Need to add encrypting SSH private key file
+           Need to check if a private key exists
+           Add password protected private keys (id_rsa)
 
 // Copyright (C) 2025 shroof
 // All rights reserved
